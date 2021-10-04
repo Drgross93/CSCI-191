@@ -1,2 +1,2 @@
-# SimulationProjects
-  A collaborative repository for team "Syntax Terror" to work on simulation projects together for CSCI 154. 
+# CSCI 191
+  This is where I keep my CSCI 191 code.
